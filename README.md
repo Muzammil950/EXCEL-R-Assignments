@@ -8,7 +8,7 @@ This repository contains my Python practice assignments based on basic programmi
 
 ---
 
-## 🚀 Topics Covered
+## 🚀 Topics Covered...
 
 * Lists (append, extend, insert, remove, etc.)
 * Tuples (immutable concept)
