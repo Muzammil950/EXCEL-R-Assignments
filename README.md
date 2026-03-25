@@ -43,7 +43,7 @@ The main purpose of this repository is:
 
 ---
 
-## 📈 Learning Outcome.
+## 📈 Learning Outcome
 
 After completing these assignments, I gained:
 
